@@ -7,7 +7,7 @@ order: 1
 
 # {{title}}
 
-Your Misty II robot has been designed and built by the Misty Robotics team. This document provides some quick, out-of-box setup steps and helpful details about using Misty II.
+Your Misty II robot has been designed and built by the Misty Robotics team. This document provides some quick, out-of-box setup steps and helpful details about using Misty II. This is a test! 
 
 To avoid the risk of driving Misty off a high surface, we recommend either working with your robot on the floor, or temporarily elevating the treads so the robot cannot drive. To do this, you can place Misty on the the foam block stand that arrived in the box. While Misty **is** designed to automatically detect obstacles and ledges, placing her on this foam block will ensure that she doesn’t accidentally roll off the table while you're coding.
 
